@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/dnserver/commit/a99dfe946103a3b45b9bf627902177fed97a41aa",
       "git:hexsha": "a99dfe946103a3b45b9bf627902177fed97a41aa",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.4.0"
     },
     {

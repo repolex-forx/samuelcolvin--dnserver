@@ -1,0 +1,11 @@
+{
+  "org": "samuelcolvin",
+  "repo": "dnserver",
+  "versions": [
+    {
+      "commit": "a99dfe946103a3b45b9bf627902177fed97a41aa",
+      "tag": "v0.4.0",
+      "parsed_at": "2026-10-11T21:48:38.885950+00:00"
+    }
+  ]
+}

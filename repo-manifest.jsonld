@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/dnserver/commit/a99dfe946103a3b45b9bf627902177fed97a41aa",
       "git:hexsha": "a99dfe946103a3b45b9bf627902177fed97a41aa",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.4.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.4.0",
+      "repolex:parsedAt": "2026-10-11T21:48:38.885484+00:00"
     },
     {
       "@id": "https://repolex.ai/r/samuelcolvin/dnserver/commit/238803464c82994b9046b2448c743cd09a377f10",
